@@ -1,0 +1,12 @@
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/PalashChitnavis/firewall
+[submodule "firewall-console"]
+	path = firewall-console
+	url = https://github.com/Ayush-Vish/firewall-console/
+[submodule "firewall-linux-agent"]
+	path = firewall-linux-agent
+	url = https://github.com/Ankesh2004/firewall-linux-agent
+[submodule "firewall-frontend"]
+	path = firewall-frontend
+	url = https://github.com/ayesha19765/firewall-frontend.git
