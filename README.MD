@@ -37,6 +37,19 @@ This project provides a cross-platform firewall solution designed for both Windo
   - Comprehensive documentation and support resources.
   - Performance monitoring tools.
 
+![Main Page](./images/main-page.jpeg)
+<br>
+![Main Page (Dark)](./images/main-page-dark.jpeg)
+<br>
+![Log Page](./images/log-page.jpeg)
+<br>
+![Signup Page](./images/signup.jpeg)
+<br>
+![Policy Page](./images/policy-page.jpeg)
+<br>
+![Node Table](./images/node-table.jpeg)
+<br>
+
 ## Installation
 
 ### Windows
